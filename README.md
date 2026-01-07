@@ -1,4 +1,4 @@
-# Tilt-Controlled Snake Game 🎮🐍
+# Tilt-Controlled Games 🎮
 
 A Snake game controlled by tilting an MPU6050 sensor connected to an ESP32.
 The ESP32 sends motion data over Serial, and Processing renders the game.
@@ -39,6 +39,8 @@ Notes:
 
 ### 2. Run the Game
 - Open `processing/TiltSnake.pde` in Processing
+  OR
+- Open `processing/Circlegame.pde` in Processing
 - Update COM port if needed (e.g., COM4)
 - Click Run
 
